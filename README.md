@@ -1,6 +1,7 @@
 # collage
 collage or school website design by gaurav tripathi
 
-using html css and javascript
+using html css and javascripy
 
-source code https://gauravias.github.io/collage/
+live link
+https://gauravias.github.io/collage/
